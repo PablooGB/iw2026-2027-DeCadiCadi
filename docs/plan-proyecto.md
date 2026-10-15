@@ -118,6 +118,9 @@ GitHub será la fuente única de verdad del proyecto para el código, el backlog
 
 ### Tecnologías
 
+- Java 21.
+- Spring Boot 4.
+- Vaadin 25.
 - Apache Maven.
 - Git y GitHub.
 

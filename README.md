@@ -18,19 +18,34 @@ Plataforma web para la gestión del Concurso Oficial de Agrupaciones Carnavalesc
 
 ## Tecnologías
 
-- Apache Maven
-- Git y GitHub
+- **Lenguaje:** Java 21.
+- **Framework backend:** Spring Boot 4.
+- **Framework de interfaz web:** Vaadin 25.
+- **Gestión de dependencias y construcción:** Apache Maven.
+- **Control de versiones y colaboración:** Git y GitHub.
+- **Integración continua:** GitHub Actions.
+- **Despliegue:** AWS.
 
 ## Documentación
 
-La documentación del proyecto se encuentra en [`docs/`](docs/).
+La documentación del proyecto se encuentra en la carpeta [`docs/`](docs/).
 
 - [Plan de proyecto](docs/plan-proyecto.md)
-- [Análisis de requisitos](docs/requisitos.md)
-- [Diseño y construcción](docs/diseno.md)
-- [Pruebas](docs/pruebas.md)
-- [Despliegue y operaciones](docs/despliegue.md)
+- [Uso de herramientas de inteligencia artificial](docs/uso-ia.md)
 
-## Estado
+Los siguientes documentos se incorporarán a medida que avance el desarrollo:
 
-Proyecto académico de la asignatura Ingeniería Web, Universidad de Cádiz, curso 2026/2027.
+- Análisis de requisitos.
+- Diseño y construcción.
+- Pruebas.
+- Despliegue y operaciones.
+
+También se puede consultar [`AGENTS.md`](AGENTS.md) para conocer las convenciones de desarrollo y las pautas de uso responsable de herramientas de inteligencia artificial.
+
+## Gestión del proyecto
+
+El equipo trabajará con Scrum, organizando el desarrollo en sprints de entre dos y tres semanas. Se utilizarán las Issues de GitHub para gestionar tareas, historias de usuario e incidencias, y las Pull Requests para revisar los cambios antes de integrarlos en la rama principal.
+
+## Estado del proyecto
+
+Proyecto académico de la asignatura Ingeniería Web de la Universidad de Cádiz, curso 2026/2027.

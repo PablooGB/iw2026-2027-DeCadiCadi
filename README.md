@@ -12,7 +12,7 @@ Plataforma web para la gestión del Concurso Oficial de Agrupaciones Carnavalesc
 
 ## Equipo
 
-- **Integrante 1:** Pablo Granado Borga
+- **Integrante 1:** Pablo Granada Borga
 - **Integrante 2:** Alejandro Álvarez Cerviño
 - **Integrante 3:** Rubén Gutiérrez Villarin
 

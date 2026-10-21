@@ -32,6 +32,7 @@ La documentación del proyecto se encuentra en la carpeta [`docs/`](docs/).
 
 - [Plan de proyecto](docs/plan-proyecto.md)
 - [Uso de herramientas de inteligencia artificial](docs/uso-ia.md)
+- [Preguntas y Respuestas sobre las reglas del Coac](docs/COAC_2027_preguntas_y_respuestas.md)
 
 Los siguientes documentos se incorporarán a medida que avance el desarrollo:
 

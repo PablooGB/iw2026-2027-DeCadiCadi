@@ -3,7 +3,6 @@
 **Proyecto:** DeCadiCadi  
 **Asignatura:** Ingeniería Web  
 **Curso académico:** 2026/2027  
-**Universidad:** Universidad de Cádiz
 
 ## 1. Objetivo
 

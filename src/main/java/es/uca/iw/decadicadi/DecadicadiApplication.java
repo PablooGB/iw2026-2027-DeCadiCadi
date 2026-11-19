@@ -1,13 +1,17 @@
+
 package es.uca.iw.decadicadi;
 
+import com.vaadin.flow.component.page.AppShellConfigurator;
+import com.vaadin.flow.component.dependency.StyleSheet;
+import com.vaadin.flow.theme.aura.Aura;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DecadicadiApplication {
+@StyleSheet(Aura.STYLESHEET)
+public class DecadicadiApplication implements AppShellConfigurator {
 
-	public static void main(String[] args) {
-		SpringApplication.run(DecadicadiApplication.class, args);
-	}
-
+    public static void main(String[] args) {
+        SpringApplication.run(DecadicadiApplication.class, args);
+    }
 }
